@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Smart Financial Analyzer</string>
+    <string name="facebook_app_id">1528415390787417</string>
+    <string name="login">Login</string>
+    <string name="signup">Create account</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="search_loan">Search for one</string>
+    <string name="custom_loan">Custom loan</string>
+    <string name="headline">Need a loan?</string>
+    <string name="search">Search</string>
+    <string name="ron">ron</string>
+    <string name="loan">Loan</string>
+    <string name="moths">months</string>
+    <string name="error_duration">Duration was not entered properly.</string>
+    <string name="error_amount">Loan amount was not entered properly.</string>
+    <string name="duration">Duration</string>
+    <string name="years">years</string>
+    <string name="loan_details">Loan details</string>
+    <string name="dae">DAE</string>
+    <string name="procent">%</string>
+    <string name="error_dae">DAE was not entered properly.</string>
+    <string name="contact_bank">Contact bank</string>
+
+</resources>
