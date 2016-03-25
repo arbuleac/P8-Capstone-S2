@@ -23,5 +23,10 @@
     <string name="contact_bank">Contact bank</string>
     <string name="widget_name">Loan widget</string>
     <string name="widget_loading">Loading...</string>
+    <string name="search_a_loan">Search a loan</string>
+    <string name="custom_a_loan">Custom loan</string>
+    <string name="loan_duration">Loan duration</string>
+    <string name="loan_amount">Loan amount</string>
+    <string name="dae_desc">DAE</string>
 
 </resources>

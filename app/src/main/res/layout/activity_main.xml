@@ -23,6 +23,7 @@
         android:textAppearance="?android:attr/textAppearanceLargeInverse" />
 
     <Button
+        android:contentDescription="@string/search_a_loan"
         android:id="@+id/btn_search_loan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -32,6 +33,7 @@
         android:text="@string/search_loan" />
 
     <Button
+        android:contentDescription="@string/custom_a_loan"
         android:id="@+id/btn_custom_loan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

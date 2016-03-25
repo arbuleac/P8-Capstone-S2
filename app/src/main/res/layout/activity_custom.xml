@@ -27,6 +27,7 @@
                 android:showDividers="middle">
 
                 <EditText
+                    android:contentDescription="@string/dae_desc"
                     android:id="@+id/et_dae"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
@@ -52,6 +53,7 @@
                 android:showDividers="middle">
 
                 <EditText
+                    android:contentDescription="@string/loan_amount"
                     android:id="@+id/et_loan_amount"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
@@ -77,6 +79,7 @@
                 android:showDividers="middle">
 
                 <EditText
+                    android:contentDescription="@string/loan_duration"
                     android:id="@+id/et_time"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
@@ -96,6 +99,7 @@
     </ScrollView>
 
     <Button
+        android:contentDescription="@string/search_a_loan"
         android:id="@+id/btn_search_loan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
