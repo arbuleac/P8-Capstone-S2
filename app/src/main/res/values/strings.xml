@@ -21,5 +21,7 @@
     <string name="procent">%</string>
     <string name="error_dae">DAE was not entered properly.</string>
     <string name="contact_bank">Contact bank</string>
+    <string name="widget_name">Loan widget</string>
+    <string name="widget_loading">Loading...</string>
 
 </resources>
